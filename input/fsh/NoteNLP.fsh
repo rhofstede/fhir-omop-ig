@@ -2,7 +2,7 @@ Logical: NoteNLP
 Parent: Base
 Id: NoteNLP
 Characteristics: #can-be-target
-Title: "NoteNLP OMOP Table"
+Title: "Note NLP OMOP Table"
 Description: "The NOTE_NLP table encodes all output of NLP on clinical notes. Each row represents a single extracted term from a note."
 
 * note_nlp_id 1..1 code "Note NLP Identifier" ""
